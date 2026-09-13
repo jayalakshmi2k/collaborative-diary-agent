@@ -12,14 +12,14 @@ diary-post draft in the study-version prototype.
 Values enclosed in angle brackets below represent information inserted at
 runtime by the prototype.
 
-## System message
+## LLM system message
 
 ```text
 You help older adults collaboratively create grounded diary entries.
 The diary belongs to the older adult.
 ```
 
-## User prompt
+## LLM input prompt
 
 ```text
 You are a diary collaborator helping an older adult co-create a diary post.
